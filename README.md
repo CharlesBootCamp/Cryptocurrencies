@@ -23,6 +23,6 @@ A client has asked to have all cryptocurrencies in the rows of data be compared 
 ### Number of Tradable Cryptocurrencies:    
 
 
-### DataFrame to plot results:    
+### HV Plot Results:    
 
 
